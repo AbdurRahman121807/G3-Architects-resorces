@@ -1,0 +1,28 @@
+.work-sans-normal {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 100px;
+    /* width: 1900px;
+    height: 1300px; */
+}
